@@ -2,7 +2,28 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Installing Process
+
+## `npm init`
+### Install the following dependencies
+ "bootstrap": "^4.5.3",\
+    "cra-template": "1.1.1",\
+    "moment": "^2.29.4",\
+    "react": "^17.0.1",\
+    "react-bootstrap": "^1.4.0",\
+    "react-dom": "^17.0.1",\
+    "react-icons": "^4.4.0",\
+    "react-scripts": "4.0.1",\
+    "uuid": "^8.3.2"
+## `npm start`
+### Refresh the page if it is blank at first or showing some error
+
+
+
+
+
+
+# Available Scripts
 
 In the project directory, you can run:
 
